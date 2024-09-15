@@ -1,0 +1,264 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div4{
+    background-image: url(./1.png);
+    height: 100vh;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 105px;
+}
+
+.div2 a{
+    font-family: open sans;
+    text-decoration: none;
+    color: white;
+    margin: 30px;
+}
+
+.div2 a:hover{
+    color: #F57520;
+}
+
+.div3 img{
+    margin: 30px;
+}
+
+.div5 h1{
+    width: 679px;
+    height: 227px;
+    font-weight: 700;
+    font-size: 96px;
+    color: white;
+    font-family: open sans;
+    padding-left: 70px;
+}
+
+.div5 p{
+    color: white;
+    width: 450px;
+    height: 100px;
+    padding-left: 70px;
+    font-family: open sans;
+    padding-top: 50px;
+}
+
+.div5 button{
+    width: 180px;
+    height: 52px;
+    color: white;
+    background: #F57520;
+    border: none;
+    border-radius: 10px;
+    font-family: open sans;
+    margin-left:70px;
+    margin-top: 90px;
+}
+
+.div6 h2{
+    width: 384px;
+    height: 56px;
+    font-weight: 800;
+    font-size: 60px;
+    margin-left: 650px;
+    padding-top: 100px;
+    font-family: open sans;
+}
+
+.div8{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.div7{
+    background-color: gray;
+}
+
+.h2{
+    width: 384px;
+    height: 56px;
+    margin-left: 650px;
+    font-family: open sans;
+}
+
+.soli .p{
+   
+    width: 88px;
+    height: 26px;
+    font-weight: 800;
+    font-size: 16px;
+    color: white;
+    padding-left: 50px;
+    font-family: open sans;
+
+}
+
+ .soli .pp{
+    font-family: Open Sans ;
+    width: 317px;
+    height: 87px;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    padding-left: 50px;
+}
+
+
+
+.soli{
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+.soli .p .pp{
+    color: white;
+}
+
+.div9{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.pp{
+    gap: 30px;
+}
+
+
+.div11{
+    background: black;
+    width: 400px;
+   
+}
+
+.div11:hover{
+    background: #F57520;
+}
+
+.soli p:hover{
+    color: black;
+}
+
+.pp:hover{
+    color: black;
+}
+
+
+.soli img{
+    margin-left: 50px;
+}
+
+.div11{
+    margin-left: 50px;
+}
+
+
+.left5 h2{
+    color: white;
+    font-family: open sans;
+    width: 720px;
+    height: 98px;
+    padding-top: 50px;
+    font-weight: 800;
+    font-size: 30px;
+    padding-left:60px;
+}
+
+.left5 input{
+    font-family: open sans;
+    width: 300px;
+    height: 46px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 13px;
+    margin: 31px;
+    margin-left: 51px;
+}
+
+.left6 input{
+    font-family: open sans;
+    margin: 20px;
+    width: 300px;
+    height: 46px;
+    margin-left: 90px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 20px;
+}
+
+textarea{
+    font-family: open sans;
+    width: 750px;
+    height: 154px;
+    border: none;
+    border-radius: 10px;
+    gap: 10px;
+    padding-left: 20px;
+    margin-left: 40px;
+    margin-top: 132px;
+}
+
+.left5{
+    margin-left: 44px;
+}
+
+
+.max{
+    background: #F57520;
+    width: 1508px;
+    height: 636px;
+
+}
+
+
+.imgg{
+    position: absolute;
+    top: 2597px;
+    width: 890px;
+    right: -36px;
+}
+
+
+iframe{
+    width: 1920px;
+    height: 500px;
+}
+
+footer{
+    width: 1920px;
+    height: 370px;
+    background: black;
+}
+
+h4{
+    color: #fff;
+}
+
+.map2 p{
+    color: white;
+    
+}
+
+footer{
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+}
+
+
+.map2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 300px;
+}
